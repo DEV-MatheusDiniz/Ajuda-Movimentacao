@@ -1,10 +1,7 @@
 # DESENVOLVEDOR: MATHEUS DINIZ
 # OBJETIVO: FACILITAR O ENCERRAMENTO DE CHAMADOS DE MOVIMENTAÇÃO\REMANEJAMENTO
 
-
 import PySimpleGUI as sg
-
-
 
 andares         = ['SS','T','1º','2º','3º','4º']
 modeloDesktop   = ['Dell OptiPlex 5050', 'HP Elite 8300', 'Lenovo M93P']
